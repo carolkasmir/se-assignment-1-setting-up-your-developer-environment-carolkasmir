@@ -172,6 +172,8 @@ Troubleshooting Tips
 
 In conclusion, setting up a developer environment is a personalized process that involves selecting tools and technologies that align with your project requirements and personal preferences. The steps outlined provide a foundation for creating a robust, efficient, and scalable development workspace. By carefully configuring each component, from the OS to performance monitoring tools, you create an ecosystem that supports best practices in software development, streamlines your workflow, and ultimately enhances productivity. Regularly updating and maintaining this environment ensures that you stay current with the latest advancements in technology and security.
 
+attached is a link to a GitHub repository with .gitignore command https://github.com/carolkasmir/developerenvironment-.git
+
 #Deliverables:
 - Document detailing the setup process with step-by-step instructions and screenshots where necessary.
 - A GitHub repository containing a sample project initialized with Git and any necessary configuration files (e.g., .gitignore).
